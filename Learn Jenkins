@@ -1,0 +1,30 @@
+Automatic deployment of project
+-Automatic deployment includes Tomcat configuration in project - which will take care of building &
+deployment
+-Need to download and install Tomcat in laptop of latest version
+-Tomcat configuration - window - server - select tomcat installed in PC
+
+Manual deployment of project
+-In manual deployment we need to build and deploy by ourself
+-Project - run as - maven clean and  install - open an window - build will be successfully
+-For maven install  - to be success one should add maven plugin with its latest version
+-Once Maven install is run - it generates war file for that project particular path eg:
+[INFO] Building war: C:\Users\shubham khedekar\eclipse-workspace\javaapp\target\javaapp.war
+-Open Target folder of project - to see war file - copy War file and paste it into
+webapps folder of downloaded zip folder of tomcat - to deploy and run project on server manually using
+OR
+Login in Tomcat homepage using username and password - deploy from their by choosing project war file 
+-Tomcat default screen displayed on Localhost/8080 
+-search for localhost/8080/<projectName> - to run
+-To login in from Tomcat home page - need to create User - open tomcat-users.xml file from Tomcat zip
+folder 
+-Add users in that with custom username and password and Role - use same to login in Tomcat homepage
+eg:   <user username="root" password="root" roles="manager-gui, manager-script"/>
+-After login one can manage/run all apps present/running on that Tomcat server instance
+
+
+
+
+
+
+ 
