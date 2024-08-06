@@ -19,7 +19,7 @@ Login in Tomcat homepage using username and password - deploy from their by choo
 -To login in from Tomcat home page - need to create User - open tomcat-users.xml file from Tomcat zip
 folder 
 -Add users in that with custom username and password and Role - use same to login in Tomcat homepage
-eg:   <user username="root" password="root" roles="manager-gui, manager-script"/>
+eg: <user username="root" password="root" roles="manager-gui, manager-script"/>
 -After login one can manage/run all apps present/running on that Tomcat server instance
 
 
