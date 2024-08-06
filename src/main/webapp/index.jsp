@@ -7,6 +7,7 @@
 <div class="btn-class" >
 	<button><a href="contact.jsp">Contact</a></button>
 	<button><a href="about.jsp">About</a></button>
+	<button><a href="services.jsp">About</a></button>
 </div>
 </body>
 </html>
