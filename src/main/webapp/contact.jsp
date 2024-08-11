@@ -12,7 +12,7 @@
 <div>Contact gives every details of about your contact. Thanks!</div>
 <br>
 <div class="btn-class" >
-	<button><a href="index.jsp">Homee</a></button>
+	<button><a href="index.jsp">Home</a></button>
 </div>
 </body>
 </html>
