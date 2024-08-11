@@ -2,7 +2,7 @@
 <title>Home - Learn Jenkins</title>
 <body>
 <h1>Learn Jenkins</h1>
-<h2>Hello World! Welcome to Learn Jenkins.</h2>
+<h2>Hello World! Welcome to Learn Jenkins - Webapp.</h2>
 <br>
 <div class="btn-class" >
 	<button><a href="contact.jsp">Contact</a></button>
