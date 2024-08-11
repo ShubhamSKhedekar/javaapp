@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>Services Page</h1>
-<h2>This is Services.jsp page - welcome User!!!</h2>
+<h2>This is Services.jsp page - welcome User</h2>
 <br>
 <div class="btn-class" >
 	<button><a href="index.jsp">Home</a></button>
