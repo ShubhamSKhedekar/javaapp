@@ -10,6 +10,11 @@
 	<button><a href="about.jsp">About</a></button>
 
 	<button><a href="services.jsp">Services</a></button>
+	
+	<hr>
+	<br>
+	<a href="error.jsp">Error Page</a>
+	
 </div>
 </body>
 </html>
